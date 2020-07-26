@@ -1,0 +1,15 @@
+.search{
+    width: 60%;
+    margin-left: 20%;
+}
+
+.search .inp{
+    width: 50%;
+    float: left;
+    border-radius: 5px 0 0 5px;
+}
+
+.search .btn2{
+    border-radius: 0 5px 5px 0;
+    width: 160%;
+}

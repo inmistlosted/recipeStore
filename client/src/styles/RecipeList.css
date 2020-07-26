@@ -1,0 +1,36 @@
+.recipelist{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.sort-mess{
+    display: flex;
+    color: darkgray;
+    font-size: 17px;
+    margin-left: 8%;
+
+}
+
+.search-mess{
+    margin-left: 13%;
+    font-size: 20px;
+    color: slategray;
+    display: none;
+}
+
+.sort-mess .mess{
+    color: black;
+    margin-left: 5px;
+    font-weight: bold;
+
+}
+
+.categ{
+    display: none;
+    margin-left: 20%;
+}
+
+#vidsort{
+    display: none;
+}

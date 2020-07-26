@@ -1,0 +1,58 @@
+.cabinet{
+    width: 100%;
+    margin: 20px 0 60px;
+
+}
+
+.cabinet .mycab{
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+}
+
+.cabinet .mycab .user{
+    font-weight: bold;
+    color: seagreen;
+}
+
+.cabinet .bl{
+    display: flex;
+    margin-top: 20px;
+}
+
+.cabinet .title{
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+    width: 80%;
+    left: 10%;
+}
+
+.cabinet .bl .my{
+    float: left;
+    width: 50%;
+    border-right: 1px solid black;
+}
+
+.cabinet .bl .lk{
+    width: 50%;
+    border-left: 1px solid black;
+}
+
+.cabinet .recipes{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.cabinet .exit{
+    position: absolute;
+    width: 10%;
+    left: 1%;
+
+}
+

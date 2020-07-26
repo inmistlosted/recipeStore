@@ -1,0 +1,36 @@
+.addform{
+    position: relative;
+    width: 60%;
+    left: 20%;
+    padding: 20px;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+.addform form{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.addform form div{
+    margin-bottom: 20px;
+}
+
+.addform form div label{
+    font-size: 19px;
+}
+
+.addform .ttl{
+    text-align: center;
+}
+
+.addform .wdth20{
+    position: relative;
+    width: 30%;
+    left: 35%;
+}
+
+.addform .wrong{
+    display: none;
+}

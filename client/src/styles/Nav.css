@@ -1,0 +1,29 @@
+.nav{
+    width: 40%;
+    border-right: 1px solid black;
+}
+
+.nav .btn2{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.nav .add{
+    margin-top: 30px;
+}
+
+.nav .wdth100{
+    width: 100%;
+}
+
+.nav .line{
+    width: 80%;
+    margin: 30px 10%;
+    border-bottom: 1px solid black;
+}
+
+.nav .sorts{
+    font-size: 17px;
+    width: 70%;
+    margin: 20px 15%;
+}

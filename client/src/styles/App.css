@@ -1,0 +1,39 @@
+/*h1{*/
+    /*color: #27aedb;*/
+    /*text-align: center;*/
+/*}*/
+
+div{
+    width: 100%;
+}
+
+.header{
+    width: 90%;
+    margin-left: 5%;
+    color: dimgray;
+    text-align: center;
+    border-bottom: 3px solid black;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.header button{
+    position: absolute;
+    width: 15%;
+    left: 83%;
+    top: 20px;
+}
+
+.header a{
+    color: dimgray;
+}
+
+.header a:hover{
+    color: black;
+}
+
+.content{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
